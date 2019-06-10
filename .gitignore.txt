@@ -1,0 +1,4 @@
+Debug/
+Starjedi.ttf
+Pong.mk
+Pong.project
